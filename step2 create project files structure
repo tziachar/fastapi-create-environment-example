@@ -1,7 +1,6 @@
-#Μία ενδεικτική δομή των φακέλων και των αρχείων του project μπορεί να είναι αυτή που φαίνεται παρακάτω: 
+# Μία ενδεικτική δομή των φακέλων και των αρχείων του project μπορεί να είναι αυτή που φαίνεται παρακάτω: 
+# Ο χρήστης μπορεί να εκτελέσει τις παρακάτω εντολές εντός του directory my_fastapi_application.
 
-mkdir fastapi_project 
-cd fastapi_project 
 mkdir app 
 touch app/main.py 
 touch app/models.py 
