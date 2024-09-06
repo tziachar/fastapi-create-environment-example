@@ -1,3 +1,5 @@
+#Μία ενδεικτική δομή των φακέλων και των αρχείων του project μπορεί να είναι αυτή που φαίνεται παρακάτω: 
+
 mkdir fastapi_project 
 cd fastapi_project 
 mkdir app 
