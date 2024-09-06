@@ -1,1 +1,9 @@
-
+mkdir fastapi_project 
+cd fastapi_project 
+mkdir app 
+touch app/main.py 
+touch app/models.py 
+touch app/database.py 
+touch app/schemas.py 
+touch app/crud.py 
+touch app/__init__.py 
